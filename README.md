@@ -1,4 +1,4 @@
-# Лабораторная работа №8: Kubernetes - Helm и Kustomize
+# DevOps СИТУ Лабораторная работа №8: Kubernetes - Helm и Kustomize
 
 ## Описание
 
